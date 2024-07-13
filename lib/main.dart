@@ -45,17 +45,3 @@ class _MagicBallState extends State<MagicBall> {
     );
   }
 }
-
-
-
-
-
-
-
-// // class BallMagicState extends StatefulWidget<BallMagic> {
-// //   int numberball = 1;
-// //   @override
-// //   Widget build(BuildContext context) {
-//     return
-// //   }
-// // }
