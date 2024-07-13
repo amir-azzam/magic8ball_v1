@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 "# magic8ball_v1" 
 "# Magic8Ball" 
 "# magic8ball" 
+"# magic8ball" 
